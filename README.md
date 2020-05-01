@@ -7,7 +7,7 @@
  <p> 
  
  <p>
-  Nesse app, você pode acessar os detalhes dos produtos, adiconar no carinho, mudar a quantidade dos produtos e excluir items do
+  Nesse app, você pode acessar os detalhes dos produtos, adicionar no carrinho, mudar a quantidade dos produtos e excluir items do
   carrinho.
  </p>
 
